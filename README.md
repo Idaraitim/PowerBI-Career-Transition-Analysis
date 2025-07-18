@@ -78,7 +78,7 @@ Power Query was used for extensive cleaning and transformation:
 ##  Getting Started
 
 You can view the report using Power BI Desktop:  
-📎 [https://drive.google.com/file/d/1GMttpqSM7yJZd-j-QrdKe53nB8D6Tvup/view?usp=drive_link]
+📎 [Download Power BI Report (.pbix)](report/Satisfaction_Regional_Report.pbix)
 
 ---
 
