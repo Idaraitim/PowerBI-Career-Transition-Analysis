@@ -78,7 +78,8 @@ Power Query was used for extensive cleaning and transformation:
 ##  Getting Started
 
 You can view the report using Power BI Desktop:  
-📎 [Download Power BI Report (.pbix)](powerbi capstone.pbix)
+📊 [Download Power BI Report (.pbix)](report/powerbi%20capstone.pbix)
+
 
 ---
 
